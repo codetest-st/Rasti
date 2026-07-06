@@ -1,4 +1,4 @@
 n1=int(input("enter first number:"))
 n2=int(input("enter second number"))
 total=n1-n2
-print(f"the subtraction is{total}")
+print(f"the subtraction is {total}")
